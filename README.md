@@ -62,7 +62,10 @@ print("The area is ", area);
 ```
 bitc program.bc
 ```
-# Build: ```sudo make```
+## Build: 
+```
+sudo make
+```
 
 # License
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License. See the LICENSE file for more details.
