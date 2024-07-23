@@ -1,0 +1,8 @@
+// This is a comment
+width = 5.53;
+height = 10.4;
+area = width * height;
+
+print("The width is ", width, " and the height is ", height);
+print("The area is ", area);
+
